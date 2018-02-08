@@ -259,5 +259,3 @@ message: '30.009281,-95.270515'
 }
 }
 });
-
-client.login(process.env.BOT_TOKEN);
