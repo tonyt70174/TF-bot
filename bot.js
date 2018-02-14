@@ -255,6 +255,12 @@ case 'deerbrook':
 bot.sendMessage({
 to: channelID,
 message: '30.009281,-95.270515'
+break;
+// !shepherd
+case 'shepherd':
+bot.sendMessage({
+to: channelID,
+message: '29.789354,-95.411178'
 });
 }
 }
