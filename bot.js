@@ -389,6 +389,20 @@ bot.sendMessage({
 to: channelID,
 message: '29.77968,-95.737236'
 });
+break;
+// !stanford
+case 'stanford':
+bot.sendMessage({
+to: channelID,
+message: '29.696352,-95.497268'
+});
+break;
+// !baylandcc
+case 'baylandcc':
+bot.sendMessage({
+to: channelID,
+message: '29.694692,-95.497299'
+});
 }
 }
 });
